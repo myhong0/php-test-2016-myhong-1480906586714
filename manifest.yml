@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 128M
+  instances: 1
+  domain: mybluemix.net
+  name: php-test-2016-myhong
+  host: php-test-2016-myhong
+  disk_quota: 1024M
